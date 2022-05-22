@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.hello{
+    background-color: blue;
+}
+.name{
+    color: #000;
+    background-color: #dedede;
+}
